@@ -1,12 +1,6 @@
-## Hi there 👋
+## Welcome to the Viam Solutions Enineering GitHub Repo 👋
 
-<!--
+This repo provides you with a variety of free Viam modules and other utilities which may be helpful. These are not officially supported repos and you are free to improve them by creating pull requests.
 
-**Here are some ideas to get you started:**
+Enjoy and don't hesitate to talk to reach out if there are any questions, suggestions or anything else you have in mind. We are definitely a bunch of nice people :-)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
